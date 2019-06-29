@@ -16,7 +16,7 @@ export const resume = {
           title: "Purdue University - 3.84 GPA",
           duration: "May 2018 - Dec 2020",
           notes: [
-            "Bachelor's In Computer Science • Machine Learning Concentration"
+            "Bachelor's In Computer Science • Machine Learning Concentration • Math Minor"
           ]
         }
       ]
