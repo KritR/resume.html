@@ -32,7 +32,14 @@ export const resume = {
             "Developed automated test infrastructure for the Remote Control Locomotive product.",
             "Lead package manager integration initiative to ease software deployment procedure.",
             "Deployed a command line parser library in C#.",
-            "Designed graphics for intern hosted professional development and fundraising events.",
+          ]
+        },
+        {
+          title: "Freelancing - Software Developer",
+          duration: "Jan 2015 - July 2015",
+          notes: [
+            "Developed C#/Win32 application to block keyboard input.",
+            "Learned Ruby to query RESTful API and save results."
           ]
         }
       ]
@@ -42,12 +49,40 @@ export const resume = {
       title: "Activities",
       subheadings: [
         {
+          title: "Hackathons",
+          duration: "Aug 2018 - Present",
+          notes: [
+            "Hello World @ Purdue - Banana Skateboard - Mobile/Desktop game made with Lua/Love2d.",
+            "HackXD @ Purdue - Purdue Fit - Alexa Skill to query dining court and rec-center info.",
+            "Code for Good @ JPMorgan - Mindful - Android app for activity tracking and suggestion."
+          ]
+        },
+        {
           title: "FIRST Robotics | Team 4213 - Software Team Lead",
           duration: "Aug 2015 - Sep 2017",
           notes: [
             "Implemented a custom scheduler and state machine for robot operations and vision processing.",
             "Architected a Laravel web application for a Sponsor Relationship Management system.",
             "Lead CAD and programming workshops for new teammates.",
+          ]
+        },
+        {
+          title: "Miscellaneous",
+          notes: [
+            "ACM SIG AI, b01lers (CTF Team), All Campus Community Choir, Machine Learning and Performing Arts research, Hack Club @ High School"
+          ]
+        }
+      ]
+    },
+    {
+      title: "Skills",
+      subheadings: [
+        {
+          notes: [
+            "Programming Languages: Python, Java, C/C#, Swift, Ruby, JavaScript/HTML5, Elixir",
+            "Frameworks: React.JS, Phoenix, Cocoa (iOS), Android SDK",
+            "Tools: Vim, Git, Docker, Docker, Vagrant, AWS/Bluemix, Nginx/Apache, SolidWorks"
+
           ]
         }
       ]
@@ -58,8 +93,8 @@ export const resume = {
       subheadings: [
         {
           notes: [
-            "Won 3rd in Computer Science at Worldwide Youth Science and Engineering | State — 2018",
-            "Placed 4th at the National Leadership Conference in Computer Networking — Future Business Leaders of America — 2016",
+            "Won 3rd in Computer Science at State — Worldwide Youth Science and Engineering — 2018",
+            "Placed 4th at National's in Computer Networking — FBLA — 2016",
             "Oracle Certified Associate Java SE Programmer — 2015",
           ]
         }
