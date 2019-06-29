@@ -69,7 +69,7 @@ export const resume = {
         {
           title: "Miscellaneous",
           notes: [
-            "ACM SIG AI, b01lers (CTF Team), All Campus Community Choir, Machine Learning and Performing Arts research, Hack Club @ High School"
+            "ACM SIG AI President, b01lers (CTF Team), All Campus Community Choir, Machine Learning and Performing Arts research, Hack Club @ High School"
           ]
         }
       ]
