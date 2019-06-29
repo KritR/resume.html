@@ -81,7 +81,7 @@ export const resume = {
           notes: [
             "Programming Languages: Python, Java, C/C#, Swift, Ruby, JavaScript/HTML5, Elixir",
             "Frameworks: React.JS, Phoenix, Cocoa (iOS), Android SDK",
-            "Tools: Vim, Git, Docker, Docker, Vagrant, AWS/Bluemix, Nginx/Apache, SolidWorks"
+            "Tools: Vim, Git, Docker, Vagrant, AWS/Bluemix, Nginx/Apache, SolidWorks"
 
           ]
         }
