@@ -16,7 +16,7 @@ export const resume = {
           title: "Purdue University - 3.84 GPA",
           duration: "May 2018 - Dec 2020",
           notes: [
-            "Bachelor's In Computer Science • Machine Learning Concentration • Math Minor"
+            "Bachelor's In Computer Science — Machine Learning Concentration — Math Minor"
           ]
         }
       ]
@@ -44,6 +44,17 @@ export const resume = {
         }
       ]
     },
+    {
+      title: "Projects",
+      subheadings: [
+        {
+          notes: [
+            "MarkovAndMe — Used NLTK to tokenize texts and designed a markov model to generate new ones.",
+            "FDS Purdue — MithrilJS based activity point tracker with NodeJS backend."
+          ]
+        }
+      ]
+    },
 
     {
       title: "Activities",
@@ -52,9 +63,9 @@ export const resume = {
           title: "Hackathons",
           duration: "Aug 2018 - Present",
           notes: [
-            "Hello World @ Purdue - Banana Skateboard - Mobile/Desktop game made with Lua/Love2d.",
-            "HackXD @ Purdue - Purdue Fit - Alexa Skill to query dining court and rec-center info.",
-            "Code for Good @ JPMorgan - Mindful - Android app for activity tracking and suggestion."
+            "Hello World @ Purdue — Banana Skateboard — Mobile/Desktop platformer game made with Lua/Love2d.",
+            "HackXD @ Purdue — Purdue Fit — Alexa Skill to query dining court meals and rec-center occupancy.",
+            "Code for Good @ JPMorgan — Mindful — Android app for individual activity tracking and suggestion."
           ]
         },
         {
@@ -79,8 +90,8 @@ export const resume = {
       subheadings: [
         {
           notes: [
-            "Programming Languages: Python, Java, C/C#, Swift, Ruby, JavaScript/HTML5, Elixir",
-            "Frameworks: React.JS, Phoenix, Cocoa (iOS), Android SDK",
+            "Programming Languages: Python, Java, C, C#, Swift, Ruby, JavaScript/HTML5, Elixir, LabVIEW",
+            "Frameworks: React.JS, Mithril.JS, Phoenix, Cocoa (iOS), Android SDK, Selenium, Scikit-Learn",
             "Tools: Vim, Git, Docker, Vagrant, AWS/Bluemix, Nginx/Apache, SolidWorks"
 
           ]
@@ -94,12 +105,12 @@ export const resume = {
         {
           notes: [
             "Won 3rd in Computer Science at State — Worldwide Youth Science and Engineering — 2018",
-            "Placed 4th at National's in Computer Networking — FBLA — 2016",
+            "Placed 4th at National's in Computer Networking — Future Business Leaders of America — 2016",
             "Oracle Certified Associate Java SE Programmer — 2015",
           ]
         }
       ]
-    }
+    }, 
   ]
 
 };
