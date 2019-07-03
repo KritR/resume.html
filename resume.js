@@ -36,10 +36,10 @@ export const resume = {
         },
         {
           title: "Freelancing - Software Developer",
-          duration: "Jan 2015 - July 2015",
+          duration: "Jan 2015 - May 2019",
           notes: [
-            "Developed C#/Win32 application to block keyboard input.",
-            "Learned Ruby to query RESTful API and save results."
+            "HuttonPatt — Designed and deployed website in Django based CMS.",
+            "Bountify.co — Developed C#/Win32 app to block keyboard input and used Ruby to query RESTful API.",
           ]
         }
       ]
@@ -80,7 +80,7 @@ export const resume = {
         {
           title: "Miscellaneous",
           notes: [
-            "ACM SIG AI President, b01lers (CTF Team), All Campus Community Choir, Machine Learning and Performing Arts research, Hack Club @ High School"
+            "ACM SIG AI - President, b01lers (CTF Team), All Campus Community Choir, Machine Learning and Performing Arts research, Hack Club @ High School"
           ]
         }
       ]
@@ -90,9 +90,9 @@ export const resume = {
       subheadings: [
         {
           notes: [
-            "Programming Languages: Python, Java, C, C#, Swift, Ruby, JavaScript/HTML5, Elixir, LabVIEW",
-            "Frameworks: React.JS, Mithril.JS, Phoenix, Cocoa (iOS), Android SDK, Selenium, Scikit-Learn",
-            "Tools: Vim, Git, Docker, Vagrant, AWS/Bluemix, Nginx/Apache, SolidWorks"
+            "Programming Languages — Python, Java, C, C#, Swift, Ruby, JavaScript/HTML5, Elixir, LabVIEW",
+            "Frameworks — React.JS, Mithril.JS, Phoenix, Cocoa (iOS), Android SDK, Selenium, Scikit-Learn",
+            "Tools — Vim, Git, Docker, Vagrant, AWS/DO/Bluemix, Nginx/Apache, SolidWorks"
 
           ]
         }
@@ -112,5 +112,4 @@ export const resume = {
       ]
     }, 
   ]
-
 };
