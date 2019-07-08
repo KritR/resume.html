@@ -1,6 +1,7 @@
 export const resume = {
   personal: {
     name: "Krithik Rao",
+    separator: "•",
     contact: [
       "309-826-4765",
       "krdevmail@gmail.com",
