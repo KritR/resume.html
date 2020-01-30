@@ -17,7 +17,7 @@ export const resume = {
           title: "Purdue University - 3.84 GPA",
           duration: "May 2018 - Dec 2020",
           notes: [
-            "Bachelor of Science Computer Science — Machine Learning Concentration — Math Minor"
+            "Bachelor of Science in Computer Science — Machine Learning Concentration — Math Minor"
           ]
         }
       ]
@@ -30,16 +30,17 @@ export const resume = {
           title: "GE Transportation - Software Engineering Intern",
           duration: "May 2019 - Jul 2019",
           notes: [
-            "Developed automated test infrastructure for the Remote Control Locomotive product.",
+            "Developed automated test tooling for the Remote Control Locomotive product using NI TestStand.",
             "Led package manager integration initiative to ease software deployment procedure.",
             "Deployed a command line argument parser library in C# with unit tests and example usage.",
+            "Reverse engineered air brake packets in order to reduce test station costs by a factor of 5-30x."
           ]
         },
         {
           title: "Freelancing - Software Developer",
           duration: "Jan 2015 - May 2019",
           notes: [
-            "HuttonPatt — Designed and deployed website in Django based content management system.",
+            "HuttonPatt — Designed and deployed website in Python/Django based content management system.",
             "Bountify.co — Developed C#/Win32 app to block keyboard input and used Ruby to query RESTful API.",
           ]
         }
@@ -84,18 +85,26 @@ export const resume = {
           ]
         },
         {
+          title: "Open Source",
+          duration: "March 2018 - Present",
+          notes: [
+            "Numerizer (Ruby) — Major Release - Implemented faster (~4x) and more configurable number parsing.",
+            "Neuron (Elixir) — Feature — Implemented fragment query caching support for GraphQL client."
+          ]
+        },
+        {
           title: "FIRST Robotics | Team 4213 - Software Team Lead",
           duration: "Aug 2015 - Sep 2017",
           notes: [
             "Implemented a custom scheduler and state machine for robot operations and vision processing.",
             "Architected a Laravel web application for a Sponsor Relationship Management system.",
-            "Led CAD and programming workshops for new teammates.",
+            "Led preseason CAD and programming workshops for new teammates.",
           ]
         },
         {
           title: "Miscellaneous",
           notes: [
-            "ACM SIG AI - President, b01lers (CTF Team), All Campus Community Choir, Machine Learning and Performing Arts research, Hack Club @ High School"
+            "ACM SIG AI - President, b01lers(CTF), AC3 Choir, AI and Performing Arts (Research), Hack Club @ High School"
           ]
         }
       ]
@@ -106,9 +115,7 @@ export const resume = {
       subheadings: [
         {
           notes: [
-            "Ranked 3rd in Computer Science at State — Worldwide Youth Science and Engineering — 2018",
-            "Placed 4th at National's in Computer Networking — Future Business Leaders of America — 2016",
-            "Oracle Certified Associate Java SE Programmer — 2015",
+            "3rd in CS (WYSE State 2018), 4th in Computer Networking (FBLA National 2016), OCA Java Certified (2015)"
           ]
         }
       ]
